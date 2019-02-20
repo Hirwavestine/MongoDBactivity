@@ -1,2 +1,1 @@
-# MongoDBactivity
-MongoDB activity 
+This is a README! it is for my GitHub MongoDBactivity.
